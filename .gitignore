@@ -18,8 +18,6 @@ ENV/
 # Environment variables
 .env
 
-# Data files (download from Kaggle — see README)
-data/
 
 # Trained model artefacts (regenerate with train_mode.py)
 models/*.pkl
