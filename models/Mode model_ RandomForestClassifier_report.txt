@@ -1,0 +1,12 @@
+============================================================
+MODE CLASSIFIER — Mode model: RandomForestClassifier Report
+============================================================
+Accuracy:  0.862
+Precision: 0.861
+Recall:    0.863
+F1-score:  0.862
+
+Confusion matrix (rows=actual, cols=predicted):
+               comfort   budget
+  comfort         401       57
+  budget           80      456
